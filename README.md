@@ -1,9 +1,10 @@
 ### Olá!! Sou Marcelo Brito 👋
 
 
-- 🔭 I’m currently front-end developer
-- 👯 I’m looking to collaborate on front-end projects
-- 📫 How to reach me: marcelo_brito92@hotmail.com
+-  Desenvolvedor Front-End na Avonale Workplace
+- Um entusiasta por criação de páginas e usabilidade
+- Procuro colaborar com o desenvolvimento front-end
+- 📫 entre em contato comigo: marcelo_brito92@hotmail.com
 
 <div>
   <a href="https://github.com/eu-marcelo">
